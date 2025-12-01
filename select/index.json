@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "デビルじゃないもん",
+  "base_artist": "DECO*27、ピノキオピー",
+  "createdAt": "2025-12-01T08:23:55.864376Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "デビルじゃないもん",
+      "artist": "DECO*27, PinocchioP",
+      "has_synced": true,
+      "path": "select/01_デビルじゃないもん_DECO_27,_PinocchioP.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "デビルじゃないもん - (Not) A Devil",
+      "artist": "DECO*27",
+      "has_synced": true,
+      "path": "select/02_デビルじゃないもん_-_(Not)_A_Devil_DECO_27.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "デビルじゃないもん",
+      "artist": "DECO*27",
+      "has_synced": true,
+      "path": "select/03_デビルじゃないもん_DECO_27.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "デビルじゃないもん",
+      "artist": "DECO*27 & ピノキオピー",
+      "has_synced": true,
+      "path": "select/04_デビルじゃないもん_DECO_27_&_ピノキオピー.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "デビルじゃないもん",
+      "artist": "deco27×PinocchioP",
+      "has_synced": true,
+      "path": "select/05_デビルじゃないもん_deco27×PinocchioP.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "DECO*27 x PinocchioP 【rachie VS @JubyPhonic 】デビルじゃないもん",
+      "artist": "(Not) A Devil (English Cover)",
+      "has_synced": true,
+      "path": "select/06_DECO_27_x_PinocchioP_【rachie_VS_@JubyPhonic_】デビルじゃないもん_(Not)_A_Devil_(English_Cover).lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "デビルじゃないもん",
+      "artist": "DECO*27×PinocchioP",
+      "has_synced": true,
+      "path": "select/07_デビルじゃないもん_DECO_27×PinocchioP.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "デビルじゃないもん",
+      "artist": "DECO*27",
+      "has_synced": true,
+      "path": "select/08_デビルじゃないもん_DECO_27.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "デビルじゃないもん",
+      "artist": "DECO*27, PinocchioP",
+      "has_synced": true,
+      "path": "select/09_デビルじゃないもん_DECO_27,_PinocchioP.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "デビルじゃないもん",
+      "artist": "DECOx27",
+      "has_synced": true,
+      "path": "select/10_デビルじゃないもん_DECOx27.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "デビルじゃないもん\u0000﻿(Not) A Devil",
+      "artist": "DECO*27",
+      "has_synced": true,
+      "path": "select/11_デビルじゃないもん\u0000﻿(Not)_A_Devil_DECO_27.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "デビルじゃないもん (Devil ja nai)",
+      "artist": "DECO*27 feat. PinocchioP",
+      "has_synced": true,
+      "path": "select/12_デビルじゃないもん_(Devil_ja_nai)_DECO_27_feat._PinocchioP.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "デビルじゃないもん",
+      "artist": "DECO*27 & ピノキオピー",
+      "has_synced": false,
+      "path": "select/pl_01_デビルじゃないもん_DECO_27_&_ピノキオピー.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "デビルじゃないもん",
+      "artist": "DECO*27 & ピノキオピー",
+      "has_synced": false,
+      "path": "select/pl_02_デビルじゃないもん_DECO_27_&_ピノキオピー.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "デビルじゃないもん",
+      "artist": "DECO*27 & ピノキオピー",
+      "has_synced": false,
+      "path": "select/pl_03_デビルじゃないもん_DECO_27_&_ピノキオピー.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "デビルじゃないもん",
+      "artist": "DECO*27 & ピノキオピー",
+      "has_synced": false,
+      "path": "select/pl_04_デビルじゃないもん_DECO_27_&_ピノキオピー.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "デビルじゃないもん",
+      "artist": "DECO*27 & ピノキオピー",
+      "has_synced": false,
+      "path": "select/pl_05_デビルじゃないもん_DECO_27_&_ピノキオピー.txt"
+    }
+  ]
+}
